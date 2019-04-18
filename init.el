@@ -32,3 +32,5 @@
 (global-set-key (kbd "C-M-^") '(lambda () (interactive)
 				 (show-org-buffer
 				  "notes.org")))
+
+(load-theme 'whiteboard t)
