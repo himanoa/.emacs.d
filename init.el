@@ -9,3 +9,4 @@
 (menu-bar-mode -1)
 (set-default 'line-spacing 5)
 (show-paren-mode nil)
+(setq x-select-enable-clipboard t)
